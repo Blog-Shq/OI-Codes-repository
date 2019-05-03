@@ -1,4 +1,4 @@
-# OI-Codes-repository
+# Shq's Codes repository
 
 ![Author: Shq](https://img.shields.io/badge/Author-Shq-blue.svg)
 
